@@ -1,2 +1,2 @@
 # hello-world
-Siguiendo la guía
+Aprendiendo el concepto de "branch"
